@@ -1,0 +1,29 @@
+Source: virtualbox-ext-pack
+Section: contrib/misc
+Priority: optional
+XSBC-Original-Maintainer: Debian Virtualbox Team <team+debian-virtualbox@tracker.debian.org>
+Maintainer: Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>
+Build-Depends:
+ debhelper-compat (= 12),
+ po-debconf
+Standards-Version: 4.6.0
+Rules-Requires-Root: no
+Homepage: https://www.virtualbox.org
+Vcs-Browser: https://gitlab.com/kaisenlinux/packages/virtualbox-ext-pack
+Vcs-Git: https://gitlab.com/kaisenlinux/packages/virtualbox-ext-pack.git
+
+Package: virtualbox-ext-pack
+Architecture: all
+Pre-Depends:
+ debconf
+Depends:
+ virtualbox (>= ${virtualbox:Version}) | virtualbox-6.1,
+ virtualbox (<< ${virtualbox:nextVersion}) | virtualbox-6.1,
+ wget,
+ ${misc:Depends}
+Description: extra capabilities for VirtualBox, downloader.
+ VirtualBox requires an extension pack to provide support for Remote
+ Desktop Protocol, USB 2.0, PXE booting for Intel network cards, etc.
+ This PUEL-licensed extension pack is free for personal use.
+ .
+ This package downloads the extension pack from internet during install.

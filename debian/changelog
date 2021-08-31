@@ -1,0 +1,666 @@
+virtualbox-ext-pack (6.1.26-1kaisen) kaisen-packages; urgency=medium
+
+  * Fork to change default debconf template response
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Tue, 31 Aug 2021 01:59:32 +0200
+
+virtualbox-ext-pack (6.1.26-1) unstable; urgency=medium
+
+  * New upstream version 6.1.26
+  * Update postinst file
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Thu, 29 Jul 2021 11:02:46 +0200
+
+virtualbox-ext-pack (6.1.22-1) unstable; urgency=medium
+
+  * New upstream version 6.1.22
+  * Update postinst file
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 11 May 2021 10:17:01 +0200
+
+virtualbox-ext-pack (6.1.20-1) unstable; urgency=medium
+
+  [ Gianfranco Costamagna ]
+  * New upstream version 6.1.20
+  * Update postinst file
+  * Add R^3: no
+
+  [ rvmefnto@yomail.info ]
+  * Switch to https download mode
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 20 Apr 2021 20:29:00 +0200
+
+virtualbox-ext-pack (6.1.18-1) unstable; urgency=medium
+
+  * New upstream version 6.1.18
+  * Update postinst file
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 20 Jan 2021 13:36:01 +0100
+
+virtualbox-ext-pack (6.1.16-1) unstable; urgency=medium
+
+  * New upstream version 6.1.16
+  * Update postinst file
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 20 Oct 2020 22:11:00 +0200
+
+virtualbox-ext-pack (6.1.14-2) unstable; urgency=medium
+
+  * Update accept license keyword and license
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Mon, 07 Sep 2020 11:37:57 +0200
+
+virtualbox-ext-pack (6.1.14-1) unstable; urgency=medium
+
+  * New upstream version 6.1.14
+  * Update postinst
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Mon, 07 Sep 2020 11:33:27 +0200
+
+virtualbox-ext-pack (6.1.12-2) unstable; urgency=medium
+
+  [ Unit 193 ]
+  * d/control, d/copyright: Update my email address.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 15 Jul 2020 10:05:06 +0200
+
+virtualbox-ext-pack (6.1.12-1) unstable; urgency=medium
+
+  * New upstream version 6.1.12
+  * Update postinst
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 15 Jul 2020 09:57:49 +0200
+
+virtualbox-ext-pack (6.1.10-1) unstable; urgency=medium
+
+  * New upstream version 6.1.10
+  * Update postinst
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 05 Jun 2020 22:49:32 +0200
+
+virtualbox-ext-pack (6.1.8-1) unstable; urgency=medium
+
+  * New upstream version 6.1.8
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Sat, 16 May 2020 13:56:49 +0200
+
+virtualbox-ext-pack (6.1.6-1) unstable; urgency=medium
+
+  * New upstream version 6.1.6
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 15 Apr 2020 17:38:23 +0200
+
+virtualbox-ext-pack (6.1.4-2) unstable; urgency=medium
+
+  * Bump std-version to 4.5.0
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 21 Feb 2020 09:26:56 +0100
+
+virtualbox-ext-pack (6.1.4-1) unstable; urgency=medium
+
+  * New upstream version 6.1.4
+  * Update postinst
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 21 Feb 2020 09:19:46 +0100
+
+virtualbox-ext-pack (6.1.2-1) unstable; urgency=medium
+
+  * New upstream version 6.1.2
+  * Update postinst
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 15 Jan 2020 15:35:53 +0100
+
+virtualbox-ext-pack (6.1.0-1) unstable; urgency=medium
+
+  * New upstream version 6.1.0
+  * Update postinst
+  * Depend on virtualbox-6.1
+  * Bump std-version to 4.4.1
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Thu, 12 Dec 2019 15:35:35 +0100
+
+virtualbox-ext-pack (6.0.14-1) unstable; urgency=medium
+
+  * New upstream version 6.0.14
+  * Update postinst file
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Thu, 17 Oct 2019 09:14:52 +0200
+
+virtualbox-ext-pack (6.0.12-2) unstable; urgency=medium
+
+  * Default eula to false, and disable autopkgtests, for legal issues
+    LP: #1844654
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Sun, 22 Sep 2019 22:53:28 +0200
+
+virtualbox-ext-pack (6.0.12-1) unstable; urgency=medium
+
+  * New upstream version 6.0.12
+  * Update postinst file
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Thu, 05 Sep 2019 09:01:19 +0200
+
+virtualbox-ext-pack (6.0.10-1) unstable; urgency=medium
+
+  * New upstream version 6.0.10, update postinst.
+  * Bump std-version to 4.4.0, no changes required
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 17 Jul 2019 11:45:45 +0200
+
+virtualbox-ext-pack (6.0.8-1) unstable; urgency=medium
+
+  * New upstream version 6.0.8, update postinst.
+  * Bump compat level to 12
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 15 May 2019 10:02:10 +0200
+
+virtualbox-ext-pack (6.0.6-2) unstable; urgency=medium
+
+  * Try to not exit on some kind of errors during postinst/prerm,
+    to avoid users being unable to recover a wrong installation.
+    (Closes: #928390)
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 14 May 2019 12:17:23 +0200
+
+virtualbox-ext-pack (6.0.6-1) unstable; urgency=medium
+
+  * New upstream version 6.0.6, update postinst.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 16 Apr 2019 23:40:50 +0200
+
+virtualbox-ext-pack (6.0.4-1) unstable; urgency=medium
+
+  * New upstream version 6.0.4, update postinst.
+  * Upload to unstable
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Mon, 28 Jan 2019 16:34:27 +0100
+
+virtualbox-ext-pack (6.0.2-1~exp2) experimental; urgency=medium
+
+  * Do not use https in wget download
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Thu, 17 Jan 2019 13:14:25 +0100
+
+virtualbox-ext-pack (6.0.2-1~exp1) experimental; urgency=medium
+
+  * New upstream version 6.0.2
+  * Update postinst file
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 15 Jan 2019 18:00:16 +0100
+
+virtualbox-ext-pack (6.0.0-1~exp1) experimental; urgency=medium
+
+  [ rvmefnto@yomail.info ]
+  * use https in download url
+
+  [ Gianfranco Costamagna ]
+  * Bump std-version to 4.3.0, no changes required
+  * d/control: use vbox 6.0
+  * Update postinst file
+  * New upstream version 6.0.0
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Thu, 10 Jan 2019 15:00:17 +0100
+
+virtualbox-ext-pack (5.2.22-1) unstable; urgency=medium
+
+  * New upstream release, update postinst.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 09 Nov 2018 12:03:26 +0100
+
+virtualbox-ext-pack (5.2.20-1) unstable; urgency=medium
+
+  [ Unit193 ]
+  * Update watch file to new format
+
+  [ Gianfranco Costamagna ]
+  * New upstream release, update postinst.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 17 Oct 2018 11:53:00 +0200
+
+virtualbox-ext-pack (5.2.18-1) unstable; urgency=medium
+
+  * New upstream release, update postinst.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 15 Aug 2018 22:45:12 +0200
+
+virtualbox-ext-pack (5.2.16-1) unstable; urgency=medium
+
+  * New upstream release, update postinst.
+  * Bump std-version to 4.1.5, no changes required
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 17 Jul 2018 17:56:40 +0200
+
+virtualbox-ext-pack (5.2.14-1) unstable; urgency=medium
+
+  * New upstream release, update postinst.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Mon, 02 Jul 2018 19:38:50 +0200
+
+virtualbox-ext-pack (5.2.12-2) unstable; urgency=medium
+
+  * Use directly /usr/bin/wget to avoid firejail issues (Closes: #898409)
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 11 May 2018 12:12:52 +0200
+
+virtualbox-ext-pack (5.2.12-1) unstable; urgency=medium
+
+  * New upstream release, update postinst.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Thu, 10 May 2018 14:52:27 +0200
+
+virtualbox-ext-pack (5.2.10-4) unstable; urgency=high
+
+  * Fix hash due to upstream change. (Closes: #897052, LP: #1767533,
+    LP: #1767402)
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Sat, 28 Apr 2018 12:47:11 +0200
+
+virtualbox-ext-pack (5.2.10-3) unstable; urgency=high
+
+  * Update copyright file to fix lintian warning.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 24 Apr 2018 12:11:40 +0200
+
+virtualbox-ext-pack (5.2.10-2) unstable; urgency=medium
+
+  * Update maintainer field to the new dispatcher (Closes: #895971)
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 18 Apr 2018 11:16:47 +0200
+
+virtualbox-ext-pack (5.2.10-1) unstable; urgency=medium
+
+  * New upstream release, update postinst.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 18 Apr 2018 00:39:38 +0200
+
+virtualbox-ext-pack (5.2.8-2) unstable; urgency=medium
+
+  * Switch to salsa.debian.org VCS fields.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Sun, 15 Apr 2018 19:35:02 +0200
+
+virtualbox-ext-pack (5.2.8-1) unstable; urgency=medium
+
+  * New upstream release, postinst.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 27 Feb 2018 23:20:34 +0100
+
+virtualbox-ext-pack (5.2.6-1) unstable; urgency=medium
+
+  * New upstream release, postinst.
+  * Bump std-version to 4.1.3, no changes required
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 16 Jan 2018 22:20:58 +0100
+
+virtualbox-ext-pack (5.2.4-1) unstable; urgency=medium
+
+  * New upstream release, postinst.
+  * Bump std-version to 4.1.2, no changes required
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 19 Dec 2017 23:18:07 +0100
+
+virtualbox-ext-pack (5.2.2-2) unstable; urgency=medium
+
+  * Fixup previous typo
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 24 Nov 2017 20:22:45 +0100
+
+virtualbox-ext-pack (5.2.2-1) unstable; urgency=medium
+
+  * New upstream release, update rules, postinsts, accept-license
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 24 Nov 2017 19:16:44 +0100
+
+virtualbox-ext-pack (5.2.0-2) unstable; urgency=medium
+
+  * Upload to unstable
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 20 Oct 2017 18:19:31 +0200
+
+virtualbox-ext-pack (5.2.0-1) experimental; urgency=medium
+
+  * New upstream release
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 18 Oct 2017 19:36:51 +0200
+
+virtualbox-ext-pack (5.1.30-2) unstable; urgency=medium
+
+  [ Gianfranco Costamagna ]
+  * Team upload
+  * wrap-and-sort -sa
+
+  [ Unit193, Ukikie ]
+  * Update license with new text / checksum
+  * Automatically generate postinst version
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 17 Oct 2017 18:21:22 +0200
+
+virtualbox-ext-pack (5.1.30-1) unstable; urgency=medium
+
+  * Update postinst, rules
+  * New upstream version 5.1.30
+  * Bump std-version to 4.1.1, no changes required
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 17 Oct 2017 08:43:32 +0200
+
+virtualbox-ext-pack (5.1.28-1) unstable; urgency=medium
+
+  * bump std-version to 4.1.0
+  * Update files for new release
+  * New upstream version 5.1.28
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Thu, 14 Sep 2017 19:37:57 +0200
+
+virtualbox-ext-pack (5.1.26-1) unstable; urgency=medium
+
+  * Update postinst/rules
+  * New upstream version 5.1.26
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 28 Jul 2017 09:24:19 +0200
+
+virtualbox-ext-pack (5.1.24-1) unstable; urgency=medium
+
+  [ Unit 193 ]
+  * d/control: Mark Priority: optional.
+  * d/rules: Rather than using dpkg-parsechangelog, use DEB_VERSION_UPSTREAM.
+  * d/copyright: Update years.
+  * Bump Standards-Version to 4.0.0.
+  * Run wrap-and-sort -s.
+  * d/compat, d/control: Use debhelper compat 10.
+
+  [ Gianfranco Costamagna ]
+  * New upstream version 5.1.24
+  * Update postinst/rules
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 18 Jul 2017 15:16:35 +0200
+
+virtualbox-ext-pack (5.1.22-2) unstable; urgency=medium
+
+  [ Mattia Rizzolo ]
+  * Add testsuite for the package.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Sat, 29 Apr 2017 14:19:10 +0200
+
+virtualbox-ext-pack (5.1.22-1) unstable; urgency=medium
+
+  * New upstream release, update postinst/rules.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Sat, 29 Apr 2017 10:14:17 +0200
+
+virtualbox-ext-pack (5.1.20-2) unstable; urgency=medium
+
+  * Add accept-license keyword (Closes: #860744)
+    - Thanks Erwan David for the bug report!
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 19 Apr 2017 19:13:11 +0200
+
+virtualbox-ext-pack (5.1.20-1) unstable; urgency=medium
+
+  * New upstream release, update postinst/rules.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 18 Apr 2017 23:29:00 +0200
+
+virtualbox-ext-pack (5.1.18-1) unstable; urgency=medium
+
+  * New upstream release, update postinst/rules.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 15 Mar 2017 23:42:20 +0100
+
+virtualbox-ext-pack (5.1.16-1) unstable; urgency=medium
+
+  * New upstream release, update postinst/rules.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 08 Mar 2017 23:22:24 +0100
+
+virtualbox-ext-pack (5.1.14-3) unstable; urgency=medium
+
+  [ Jonatan Nyberg ]
+  * Update Swedish translation (Closes: #855363).
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 17 Feb 2017 09:40:31 +0100
+
+virtualbox-ext-pack (5.1.14-2) unstable; urgency=medium
+
+  * Use ext-pack changelog to compute virtualbox version
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 18 Jan 2017 07:59:53 +0100
+
+virtualbox-ext-pack (5.1.14-1) unstable; urgency=medium
+
+  * New upstream release, update postinst/rules.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 17 Jan 2017 15:48:16 +0100
+
+virtualbox-ext-pack (5.1.12-2) unstable; urgency=medium
+
+  * No change rebuild against vbox 5.1.12 (Closes: #849164)
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Mon, 26 Dec 2016 15:45:27 +0100
+
+virtualbox-ext-pack (5.1.12-1) unstable; urgency=medium
+
+  * New upstream release, update postinst/rules
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 20 Dec 2016 22:49:37 +0100
+
+virtualbox-ext-pack (5.1.10-4) unstable; urgency=medium
+
+  * Fix upper bound
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 06 Dec 2016 23:29:19 +0100
+
+virtualbox-ext-pack (5.1.10-3) unstable; urgency=medium
+
+  * Enforce virtualbox runtime dependency
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Mon, 05 Dec 2016 18:12:05 +0100
+
+virtualbox-ext-pack (5.1.10-2) unstable; urgency=medium
+
+  * Fix SHA256SUM (Closes: #845423)
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 23 Nov 2016 10:13:38 +0100
+
+virtualbox-ext-pack (5.1.10-1) unstable; urgency=medium
+
+  * New upstream release, update postinst/rules
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 22 Nov 2016 13:06:13 +0100
+
+virtualbox-ext-pack (5.1.8-1) unstable; urgency=medium
+
+  * New upstream release, update postinst/rules
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 18 Oct 2016 23:45:08 +0200
+
+virtualbox-ext-pack (5.1.6-2) unstable; urgency=low
+
+  [ Unit193]
+  * Move the package to contrib, because it is just
+    a downloader of a non-free package.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 16 Sep 2016 17:45:24 +0200
+
+virtualbox-ext-pack (5.1.6-1) unstable; urgency=low
+
+  * New upstream release, update postinst/rules
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Mon, 12 Sep 2016 22:29:01 +0200
+
+virtualbox-ext-pack (5.1.4+repack1-2) unstable; urgency=medium
+
+  * Depend on virtualbox-5.1 only
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Mon, 29 Aug 2016 08:27:39 +0200
+
+virtualbox-ext-pack (5.1.4+repack1-1) unstable; urgency=low
+
+  * Revert 5.1.4-1 upload, the §2 part of the PUEL is
+    allowing only the guest-additions iso image.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 26 Aug 2016 14:14:03 +0200
+
+virtualbox-ext-pack (5.1.4-1) unstable; urgency=low
+
+  * New upstream release, update postinst/rules
+  * Embed the extpack file, without downloading it anymore
+    (the same happens in guest-additions-iso package)
+  * Update copyright and use a get-orig-source script to create
+    the orig tarball
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 17 Aug 2016 09:59:40 +0200
+
+virtualbox-ext-pack (5.0.24-1) unstable; urgency=medium
+
+  * New upstream release, update postinst/rules
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 29 Jun 2016 00:35:05 +0200
+
+virtualbox-ext-pack (5.0.22-1) unstable; urgency=medium
+
+  [ Jonatan Nyberg ]
+  * Add Swedish translation (Closes: #823656)
+
+  [ Gianfranco Costamagna ]
+  * New upstream release, update postinst/rules.
+  * Alternative depend on virtualbox-5.1 too.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Mon, 09 May 2016 11:07:11 +0200
+
+virtualbox-ext-pack (5.0.20-1) unstable; urgency=medium
+
+  * New upstream release, update postinst/rules.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 29 Apr 2016 09:46:04 +0200
+
+virtualbox-ext-pack (5.0.18-1) unstable; urgency=medium
+
+  * New upstream release, update postinst/rules.
+  * Update std-version to 3.9.8
+  * Fix insecure VCS fields.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Mon, 18 Apr 2016 23:34:40 +0200
+
+virtualbox-ext-pack (5.0.16-1) unstable; urgency=medium
+
+  * New upstream release, update postinst/rules.
+  * Update std-version and watch file version.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 04 Mar 2016 22:18:04 +0100
+
+virtualbox-ext-pack (5.0.14-1) unstable; urgency=medium
+
+  * New upstream release, update postinst/rules.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 20 Jan 2016 10:11:12 +0100
+
+virtualbox-ext-pack (5.0.12-2) unstable; urgency=medium
+
+  * d/prerm: Ignore failures on file removal if nonexistent (LP: #1527860).
+  * Move the license check to the preinstall script.
+
+ -- Unit 193 <unit193@ubuntu.com>  Mon, 11 Jan 2016 16:12:06 -0500
+
+virtualbox-ext-pack (5.0.12-1) unstable; urgency=medium
+
+  * New upstream release, update postinst.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Sat, 19 Dec 2015 10:41:21 +0100
+
+virtualbox-ext-pack (5.0.10-1) unstable; urgency=medium
+
+  * New upstream release, update postinst.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 11 Nov 2015 10:25:52 +0100
+
+virtualbox-ext-pack (5.0.8-1) unstable; urgency=medium
+
+  * New upstream release, update postinst.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Thu, 22 Oct 2015 12:16:50 +0200
+
+virtualbox-ext-pack (5.0.6-5) unstable; urgency=medium
+
+  * Drop uninstall hack, live systems are not intended to work
+    correctly with the uninstall system.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 16 Oct 2015 09:49:52 +0200
+
+virtualbox-ext-pack (5.0.6-4) unstable; urgency=medium
+
+  * Disable --force, it doesn't exist in any implementation.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Thu, 15 Oct 2015 19:15:31 +0200
+
+virtualbox-ext-pack (5.0.6-3) unstable; urgency=medium
+
+  * Force extpack uninstall (Closes: #800034).
+    - this is an issue e.g. in chroots or live builds.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Thu, 15 Oct 2015 15:29:11 +0200
+
+virtualbox-ext-pack (5.0.6-2) unstable; urgency=medium
+
+  * Initial portuguese translation (Closes: #800839)
+  * Initial russian translation (Closes: #801047)
+  * Initial dutch translation (Closes: #801130)
+  * Update czech translation (Closes: #801115)
+  * Update italian translation (Closes: #801244)
+  * Add target to generate tarballs.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Sun, 04 Oct 2015 23:10:06 +0200
+
+virtualbox-ext-pack (5.0.6-1) unstable; urgency=medium
+
+  * New upstream release, update postinst.
+  * Force uninstallation of the extension pack (Closes: #800034)
+  * Update templates (Closes: #795808).
+  * Initial danish translation (Closes: #799884)
+  * Initial italian translation
+  * Initial czech translation (Closes: #797995)
+  * Initial german translation (Closes: #800314)
+  * Initial french translation (Closes: #800433)
+  * Initial spanish translation (Closes: #800777)
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 16 Sep 2015 19:06:35 +0200
+
+virtualbox-ext-pack (5.0.4-2) unstable; urgency=medium
+
+  * Reupload with the _all package, non-free isn't autobuilt.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 08 Sep 2015 21:39:03 +0200
+
+virtualbox-ext-pack (5.0.4-1) unstable; urgency=medium
+
+  * New upstream release, update postinst.
+
+  [ Christian Perrier, Justin B Rye]
+  * Rephrase a little bit the templates (cfr: #795808)
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 08 Sep 2015 20:20:36 +0200
+
+virtualbox-ext-pack (5.0.2-2) unstable; urgency=medium
+
+  [ Gianfranco Costamagna ]
+  * move README.Debian to README.source
+
+  [ Christian Perrier ]
+  * Make only template synopsis translatable (Closes: #795660)
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Sat, 15 Aug 2015 23:18:26 +0200
+
+virtualbox-ext-pack (5.0.2-1) unstable; urgency=medium
+
+  * Add myself to uploaders.
+  * New upstream release.
+  * Update VCS fields.
+  * Add a README.Debian file, explaining
+    how to recreate the orig tarball.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 14 Aug 2015 15:09:14 +0200
+
+virtualbox-ext-pack (5.0.0-1) experimental; urgency=medium
+
+  * Initial release (Closes: #793439)
+
+ -- Unit 193 <unit193@ubuntu.com>  Thu, 30 Jul 2015 15:04:24 +0200
