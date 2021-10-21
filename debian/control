@@ -5,6 +5,7 @@ XSBC-Original-Maintainer: Debian Virtualbox Team <team+debian-virtualbox@tracker
 Maintainer: Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>
 Build-Depends:
  debhelper-compat (= 12),
+ ca-certificates,
  po-debconf
 Standards-Version: 4.6.0
 Rules-Requires-Root: no
