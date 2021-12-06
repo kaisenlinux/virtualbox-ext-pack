@@ -1,3 +1,16 @@
+virtualbox-ext-pack (6.1.30-1kaisen) kaisen-packages; urgency=medium
+
+  * Import 6.1.30 version
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Mon, 06 Dec 2021 20:26:27 +0200
+
+virtualbox-ext-pack (6.1.30-1) unstable; urgency=medium
+
+  * New upstream version 6.1.30
+  * Update postinst file
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 01 Dec 2021 10:05:23 +0100
+
 virtualbox-ext-pack (6.1.28-1kaisen) kaisen-packages; urgency=medium
 
   * Import 6.1.28 version
