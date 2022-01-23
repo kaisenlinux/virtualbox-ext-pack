@@ -1,3 +1,11 @@
+virtualbox-ext-pack (6.1.32-1kaisen) kaisen-packages; urgency=medium
+
+  * Rebuild for Virtualbox 6.1.32
+  * Update hash file
+  * Update control file
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Sun, 23 Jan 2021 14:33:51 +0200
+
 virtualbox-ext-pack (6.1.30-1kaisen) kaisen-packages; urgency=medium
 
   * Import 6.1.30 version
