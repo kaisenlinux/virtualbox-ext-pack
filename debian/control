@@ -18,7 +18,7 @@ Architecture: all
 Pre-Depends:
  debconf
 Depends:
- virtualbox (>= 6.1.32-1kaisen) | virtualbox-6.1,
+ virtualbox (>= ${source:Upstream-Version}) | virtualbox-6.1,
  wget,
  ${misc:Depends}
 Description: extra capabilities for VirtualBox, downloader.
