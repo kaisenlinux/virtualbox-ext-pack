@@ -4,7 +4,7 @@ Priority: optional
 XSBC-Original-Maintainer: Debian Virtualbox Team <team+debian-virtualbox@tracker.debian.org>
 Maintainer: Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>
 Build-Depends:
- debhelper-compat (= 12),
+ debhelper-compat (= 13),
  ca-certificates,
  po-debconf
 Standards-Version: 4.6.0
