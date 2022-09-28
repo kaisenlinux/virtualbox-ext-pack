@@ -1,3 +1,17 @@
+virtualbox-ext-pack (6.1.38-1kaisen) kaisen-packages; urgency=medium
+
+  * Rebuild for Virtualbox 6.1.38
+  * Update hash file
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Wed, 28 Sep 2022 02:27:11 +0100
+
+virtualbox-ext-pack (6.1.38-1) unstable; urgency=medium
+
+  * New upstream version 6.1.38
+  * Update postinst
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Sun, 04 Sep 2022 18:05:02 +0200
+
 virtualbox-ext-pack (6.1.36-1kaisen) kaisen-packages; urgency=medium
 
   * Rebuild for Virtualbox 6.1.36
