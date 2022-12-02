@@ -16,7 +16,7 @@ override_dh_installdeb:
 
 override_dh_gencontrol:
 	dh_gencontrol -- \
-		-Vvirtualbox:Version=$(DEB_VERSION_UPSTREAM)-dfsg-0~ -Vvirtualbox:nextVersion=$(DEB_VERSION_UPSTREAM)-dfsg-z
+		-Vvirtualbox:Version=$(DEB_VERSION_UPSTREAM)-1kaisen
 
 tarball:
 	mkdir virtualbox-ext-pack_$(VERSION)
