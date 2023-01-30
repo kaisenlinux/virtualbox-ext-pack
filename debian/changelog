@@ -1,3 +1,21 @@
+virtualbox-ext-pack (7.0.6-1kaisen) kaisen-packages; urgency=medium
+
+  * Rebuild for Virtualbox 7.0.6
+  * Update the hash file
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Mon, 30 Jan 2022 19:54:16 +0100
+
+virtualbox-ext-pack (7.0.6-1) unstable; urgency=medium
+
+  [ Paulo Henrique de Lima Santana <phls@debian.org> ]
+  * Add Brazilian Portuguese debconf templates translation (Closes: #1025429)
+
+  [ Gianfranco Costamagna ]
+  * New upstream version 7.0.6
+  * Update postinst
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 10 Jan 2023 07:10:25 +0100
+
 virtualbox-ext-pack (7.0.4-1kaisen) kaisen-packages; urgency=medium
 
   * Rebuild for Virtualbox 7.0.4
