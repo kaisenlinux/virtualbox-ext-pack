@@ -1,9 +1,9 @@
-virtualbox-ext-pack (7.0.14-1kaisen) kaisen-packages; urgency=medium
+virtualbox-ext-pack (7.0.14-2kaisen) kaisen-packages; urgency=medium
 
-  * Rebuild for Virtualbox 7.0.14
-  * Update the hash file
+  * Update dependancies
+  * Update rules
 
- -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Thu, 15 Feb 2024 09:47:52 +0100
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Fri, 16 Feb 2024 22:44:06 +0100
 
 virtualbox-ext-pack (7.0.14-1) unstable; urgency=medium
 
