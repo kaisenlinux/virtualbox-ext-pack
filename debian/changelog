@@ -1,3 +1,31 @@
+virtualbox-ext-pack (7.0.18-1kaisen) kaisen-packages; urgency=medium
+
+  * Update dependancies
+  * Update rules
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Mon, 06 May 2024 14:19:16 +0200
+
+virtualbox-ext-pack (7.0.18-1) unstable; urgency=medium
+
+  * Update postinst file
+  * New upstream version 7.0.18
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 03 May 2024 14:54:11 +0200
+
+virtualbox-ext-pack (7.0.16-2) unstable; urgency=medium
+
+  * Bump compat level to 13
+  * Bump std-version to 4.7.0
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 03 May 2024 08:49:26 +0200
+
+virtualbox-ext-pack (7.0.16-1) unstable; urgency=medium
+
+  * Update postinst file
+  * New upstream version 7.0.16
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 16 Apr 2024 21:44:01 +0200
+
 virtualbox-ext-pack (7.0.14-2kaisen) kaisen-packages; urgency=medium
 
   * Update dependancies
