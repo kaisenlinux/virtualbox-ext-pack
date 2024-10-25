@@ -2,9 +2,9 @@
 #set -e
 
 version="#VERSION#"
-hash="cab1abad478679fc34a0c5cb4a6d3566edc20e3c54cbed39c8e895d8cfad3ee2"
-file="Oracle_VM_VirtualBox_Extension_Pack-${version}.vbox-extpack"
-accept_license="33d7284dc4a0ece381196fda3cfe2ed0e1e8e7ed7f27b9a9ebc4ee22e24bd23c"
+hash="9dd60ef3c52c2a318fbbb6faace5862a299b61f678a579988869865dcf7390b6"
+file="Oracle_VirtualBox_Extension_Pack-${version}.vbox-extpack"
+accept_license="eb31505e56e9b4d0fbca139104da41ac6f6b98f8e78968bdf01b1f3da3c4f9ae"
 
 error ()
 {
