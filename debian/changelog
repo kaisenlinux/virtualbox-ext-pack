@@ -1,3 +1,10 @@
+virtualbox-ext-pack (7.1.12-1kaisen) kaisen-packages; urgency=medium
+
+  * New upstream version 7.1.12
+  * Update the postinst file (licence and vbox ext pack hashs)
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Sat, 09 Aug 2025 15:38:44 +0200
+
 virtualbox-ext-pack (7.1.6-1kaisen) kaisen-packages; urgency=medium
 
   * New upstream version 7.1.6
